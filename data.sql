@@ -14,4 +14,4 @@ INSERT INTO users VALUES(18133,'rutik',23,'CS','OS');
 INSERT INTO users VALUES(18134,'admin',24,'CS','DS');
 INSERT INTO users VALUES(18135,'rohan',22,'CS','TOC');
 INSERT INTO users VALUES(18136,'ratnesh',23,'CS','DOS');
-INSERT INTO users VALUES(18137,'harshal',23,'CS','OS');
+INSERT INTO users VALUES(18137,'kunal',23,'CS','OS');
